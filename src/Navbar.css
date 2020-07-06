@@ -1,0 +1,26 @@
+.nav-link {
+  text-decoration: none;
+  margin: 0px 20px;
+  display: inline-block;
+}
+
+.nav-btn {
+  color: #ffffff;
+  border-style: none;
+  height: 5vh;
+  background-color: rgb(22, 185, 190);
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  transition: background-color 1s;
+  -webkit-transition: background-color 1s;
+  -moz-transition: background-color 1s;
+  -ms-transition: background-color 1s;
+  -o-transition: background-color 1s;
+}
+
+.nav-btn:hover {
+  background-color: red;
+}

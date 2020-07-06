@@ -1,0 +1,17 @@
+.menu-div {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  height: 100vh;
+}
+
+.menu-header {
+}
+
+.menu-info {
+  margin: 0;
+  align-self: center;
+}
