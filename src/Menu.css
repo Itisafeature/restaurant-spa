@@ -9,9 +9,12 @@
 }
 
 .menu-header {
+  color: white;
+  text-align: center;
 }
 
 .menu-info {
-  margin: 0;
+  display: block;
+  margin-bottom: 25em;
   align-self: center;
 }
