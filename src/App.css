@@ -5,10 +5,13 @@ body {
 .app-header {
   display: flex;
   justify-content: center;
+  position: fixed;
+  width: 100%;
 }
 
 .logo {
   margin-right: auto;
   height: 100px;
   width: 10%;
+  background-color: black;
 }
