@@ -1,0 +1,45 @@
+.contact-background-container {
+  background-image: url('/restaurant-seating.jpg');
+  background-size: cover;
+  margin-top: 0;
+}
+
+.contact-header {
+  text-align: center;
+  padding-top: 2em;
+  color: rgb(212, 29, 29);
+}
+
+.contact-div {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.contact-form-card {
+  text-align: center;
+  height: 40vh;
+  width: 50vh;
+  background-color: thistle;
+  opacity: 0.9;
+  margin-bottom: 10em;
+}
+
+.hours-card {
+  text-align: center;
+  height: 35vh;
+  width: 50vh;
+  background-color: thistle;
+  opacity: 0.9;
+  margin-bottom: 10em;
+}
+
+.hours {
+  height: 60%;
+  width: 80%;
+}
+
+#content {
+  resize: none;
+}
